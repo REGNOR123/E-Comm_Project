@@ -1,0 +1,25 @@
+{
+  "name": "e-comm_project",
+  "version": "1.0.0",
+  "description": "Full-Stack Web Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/REGNOR123/fullStackProject.git"
+  },
+  "keywords": [
+    "E-Comm"
+  ],
+  "author": "Amit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/REGNOR123/fullStackProject/issues"
+  },
+  "homepage": "https://github.com/REGNOR123/fullStackProject#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
